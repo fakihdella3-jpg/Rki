@@ -8,7 +8,7 @@
         ip="beve-studio.my.id"
         port="7777"
         region="indonesia"
-        url="https://zn.mumble.my.id"
+        url="beve-studio.my.id"
         token=""
     />
 </servers>
