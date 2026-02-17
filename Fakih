@@ -1,0 +1,14 @@
+<servers>
+    <server 
+        name="R K I "
+        ca="0"
+        continent_code="ID"
+        country="01"
+        country_code="ID"
+        ip="beve-studio.my.id"
+        port="7777"
+        region="indonesia"
+        url="https://zn.mumble.my.id"
+        token=""
+    />
+</servers>
